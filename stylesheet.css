@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: brown;
+    color: white;
+
+}
+
+
+
+div{
+    display: inline-block;
+    font-size: 30px;
+    
+}
+a{
+    color: white;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+
+
+
+img{
+    height: auto;
+    width: 300px;
+    
+}
+div{
+    display: inline-block;
+
+}
+.bottom{
+ 
+ line-height: 1.5;
+}
